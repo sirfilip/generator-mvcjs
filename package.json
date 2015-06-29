@@ -1,0 +1,20 @@
+{
+  "name": "generator-mvcjs",
+  "version": "1.0.0",
+  "description": "Generator for the mvcjs framework ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mvcjs"
+  ],
+  "author": "Filip Kostovski",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.20.1"
+  },
+  "files": [
+      "app"
+  ]
+}
